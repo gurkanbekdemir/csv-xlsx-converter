@@ -12,7 +12,7 @@ Programın arayüzünde 2 tane seçenek vardır <br/>
 
 
 
-<h2>The requirements / Gereken modüller</h2>
+<h2>Required modules / Gereken modüller</h2>
  
 1 -PyQt5 <br/> 2 -Pandas <br/> 3 -xlrd 
 
