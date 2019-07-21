@@ -1,6 +1,5 @@
 # csv-xlsx-converter
-Csv to xlsx - xlsx to csv | csvden excele - excelden csv dönüştürücüsü (PyQt)
-
+Csv to xlsx - xlsx to csv |(PyQt)| csvden excele - excelden csv dönüştürücüsü 
 
 # Program Kullanımı
 *programı kullanmak için aşağıdaki modüller bilgisayarınızda kurulu olması lazımdır.*<br/>
