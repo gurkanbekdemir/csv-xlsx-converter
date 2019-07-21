@@ -2,7 +2,7 @@
 Csv to xlsx - xlsx to csv |(PyQt)| csvden excele - excelden csv dönüştürücüsü 
 
 # Program Kullanımı
-*programı kullanmak için aşağıdaki modüller bilgisayarınızda kurulu olması lazımdır.*<br/>
+*programı kullanmak için aşağıdaki modüller bilgisayarınızda kurulu olması gereklidir.*<br/>
 işlem bittiğinde masaüstünde 'Çevirilenler' adlı klasör oluşturur ve içine çevirilen dosyaları oluşturur.
 
 Programın arayüzünde 2 tane seçenek vardır <br/>
